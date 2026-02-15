@@ -1,0 +1,6 @@
+Enter number of shares purchased: 10
+Enter price per share: $5
+
+Total cost of shares are: $50.0
+Commission cost is: $1.0
+Total Cost is: $51.0

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HelloWorld
+comment0.text=\r\n\ This\ is\ my\ first\ java\ app.\ It\ prints\ out\ Hello\ World\ and\ my\ name\ to\ the\r\n\ console\ \r\n\ @author\ (David\ Rivera\ Ortiz),\ driveraortiz@student.sdccd.edu\r\n\ @version\ (02/05/2026)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

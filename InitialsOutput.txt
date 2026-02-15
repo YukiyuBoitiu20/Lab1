@@ -1,0 +1,5 @@
+Enter your first name: David
+Enter your middle name: Alexis
+Enter your last name: Rivera Ortiz
+My name is: David Alexis Rivera Ortiz
+My initials are: DAR
