@@ -1,0 +1,14 @@
+Test Run 1: 1
+
+Enter a number between 1 and 3: 1
+The Roman numeral is: I
+
+Test Run 2: 3
+
+Enter a number between 1 and 3: 3
+The Roman numeral is: III
+
+Test Run 3: 4
+
+Enter a number between 1 and 3: 4
+4 is not a valid number. It must be between 1 and 3.
