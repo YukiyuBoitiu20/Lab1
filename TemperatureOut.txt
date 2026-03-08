@@ -1,0 +1,12 @@
+Temperature.txt
+
+Enter a whole number, a space, and C or F (ie 100 F converts to Cels): 100 V
+Enter C to convert to F or vice versa: F
+100F converted is: 37.8C
+Do you want to calculate another temp? If so, enter yes otherwise no: YES
+Enter a whole number, a space, and C or F (ie 100 F converts to Cels): 212 F
+212F converted is: 100.0C
+Do you want to calculate another temp? If so, enter yes otherwise no: YES
+Enter a whole number, a space, and C or F (ie 100 F converts to Cels): 0 C
+0C converted is: 32.0F
+Do you want to calculate another temp? If so, enter yes otherwise no: NO
