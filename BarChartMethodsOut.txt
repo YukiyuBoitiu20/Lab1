@@ -1,0 +1,10 @@
+BarChartMethods.txt
+
+Number 1 is: 562
+Number 2 is: 671
+Number 3 is: 498
+
+NUMBER BAR CHART
+Number 1: *****
+Number 2: ******
+Number 3: ****
